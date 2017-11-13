@@ -69,23 +69,29 @@ const parser = new reader.OrderParser(dictionaryData);
 
 module.exports = function (app) {
   app.post('/convert', (req, res) => {
-    console.log(req.body);
     let busboy = new Busboy({headers: req.headers});
     console.log('Beginning search...');
     busboy.on('file', (fieldname, file, filename, encoding, mimetype) => {
       if (fieldname !== 'order') {
-	console.log('Skipping', fieldname);
-	return;
+        console.log('Skipping', fieldname);
+        return;
       }
 
       parser.parse(file)
         .then(result => {
-	  console.log('result:', result);
-      	  res.send(JSON.stringify(result) + '\n');
+          app.models.converted_fileobject.create({
+            contents:JSON.stringify(result),
+            status: "",
+            status_date_change: Date.now(),
+            dictionary_version: "",
+            dictionary_approval: ""
+          })
+          console.log('result:', result);
+          res.send(JSON.stringify(result) + '\n');
         })
         .catch(e => {
-	  console.log('error:', e);
-      	  res.send('Error: ' + e);
+          console.log('error:', e);
+           res.send('Error: ' + e);
         });
 
       console.log('found it');

@@ -1,12 +1,12 @@
 {
  "db": {
-  "host": "localhost",
-  "port": 27017,
-  "url":  "${MONGODB_URL}",
-  "database": "mongodb",
-  "password": "${MONGO_PASS}",
-  "name": "mydb",
-  "user": "${MONGO_USER}",
-  "connector": "mongodb"  
-}
+	  "host": "meetups-shard-00-00-knbrd.mongodb.net:27017",
+	  "port": 27017,
+	  "url":  "mongodb://6bitjs:209SPark$$@meetups-shard-00-00-knbrd.mongodb.net:27017,meetups-shard-00-01-knbrd.mongodb.net:27017,meetups-shard-00-02-knbrd.mongodb.net:27017/test?ssl=true&replicaSet=Meetups-shard-0&authSource=admin",
+	  "database": "mongodb",
+	  "password": "209SPark$$",
+	  "name": "mydb",
+	  "user": "6bitjs",
+	  "connector": "mongodb"  
+	}
 }
