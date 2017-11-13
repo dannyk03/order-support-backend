@@ -1,0 +1,48 @@
+{
+  "name": "fileobject",
+  "plural": "filesobjects",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "created_date": {
+      "type": "date"
+    },
+    "customer_id": {
+      "type": "string"
+    },
+    "current_status": {
+      "type": "string"
+    },
+    "ticket_url": {
+      "type": "string"
+    },
+    "archived_date": {
+      "type": "date"
+    },
+    "converted_fileobject_id": {
+      "type": "string"
+    },
+    "approved_date": {
+      "type": "date"
+    },
+    "fileobject_url": {
+      "type": "string"
+    },
+    "uploaded_date": {
+      "type": "date"
+    },
+    "orginal_fileobject_id": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

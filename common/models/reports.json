@@ -1,0 +1,27 @@
+{
+  "name": "reports",
+  "plural": "reports",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "contents": {
+      "type": "object"
+    },
+    "created_date": {
+      "type": "date"
+    },
+    "documentfile_url": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

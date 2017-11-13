@@ -1,0 +1,30 @@
+{
+  "name": "converted_fileobject",
+  "plural": "converted_fileobjects",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "contents": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "status_date_change": {
+      "type": "date"
+    },
+    "dictionary_version": {
+      "type": "string"
+    },
+    "dictionary_approval": {
+      "type": "boolean"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

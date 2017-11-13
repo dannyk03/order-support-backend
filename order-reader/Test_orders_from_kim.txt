@@ -1,0 +1,1318 @@
+//////////////////////////////////// 1st Order//////////////////////////////////////////////////////////////////////////////////////////
+
+State Of Illinois EON, acknowledge receipt of order & acceptance of due date within 24 hours. No changes to be made to order without prior approval from an authorized CSC representative.
+Request # : 158725
+
+Email Date Time: 9/29/17 2:16 PM
+
+Priority: Low          Project:
+
+Analyst: TROESCH, MARY
+
+Status: Sent To Vendor
+
+Requestor: RIECH , SCOTT
+
+Phone: 2178361781
+
+Submitted: 09/25/17
+
+Requested Due: 10/04/17
+
+Confirmed Due:
+
+Agency Control: ISP18R171
+
+Agency: ISP
+
+Order Type: CELL VZW
+
+Cost Center: 4939012B01
+
+Request Description:
+
+NEW 815 ROCKFORD #
+SHIP TO SCOTT RIECH ISP 2178361781
+801 SOUTH 7TH STREET, FAC BLDG, SPRINGFIELD 62702
+
+Location Description:
+
+________________________________
+
+Request #: 158725
+
+SR #: 158725-1
+
+Action: Copy Sr
+
+Inventory #:
+
+Previous Inventory #:
+
+User Name: SEAN    GROSVENOR
+
+Cost Center: 4939012B01
+
+Cost Center Description: ISP: SUPPORT TECH/FIELD SVC
+
+Service: 4GVZW - VERIZON WIRELESS 4G SERVICE
+
+Vendor: VERIZON WIRELESS
+
+SR Description:
+
+Comments:
+
+Requested Due Date:
+
+Confirmed Due Date:
+
+Action
+
+Description
+
+RC Qty
+
+Rc Amt
+
+NRC Qty
+
+NRC Amt
+
+Vendor
+
+Install
+
+VISUAL VM FOR IPHONE - 75903
+
+1.0
+
+$0.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+4G HOTSPOT FEATURE 76445
+
+1.0
+
+$11.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+NW 400 SHARE W/DATA 97461
+
+1.0
+
+$51.75
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+IPHONE OTTERBOX
+
+1.0
+
+$0.00
+
+1.0
+
+$41.25
+
+11111
+
+Install
+
+IPHONE 6S 32GB
+
+1.0
+
+$0.00
+
+1.0
+
+$1.10
+
+11111
+
+BILLING ACCOUNT #: 0380019105
+
+EQUIPMENT MODEL #: IPHONE 6S 32GB
+
+Primary Location
+
+Secondary Location (or Current Location)
+
+FFFFFFFFFFFFFFFFF
+
+.
+
+FLOOR: FFF
+
+.
+
+SPRINGFIELD IL , 62702
+
+Contact Name
+
+Telephone
+
+Contact Name
+
+Telephone
+
+________________________________
+
+State of Illinois
+
+State of Illinois - CONFIDENTIALITY NOTICE: The information contained in this communication is confidential, may be attorney-client privileged or attorney work product, may constitute inside information or internal deliberative staff communication, and is intended only for the use of the addressee. Unauthorized use, disclosure or copying of this communication or any part thereof is strictly prohibited and may be unlawful. If you have received this communication in error, please notify the sender immediately by return e-mail and destroy this communication and all copies thereof, including all attachments. Receipt by an unintended recipient does not waive attorney-client privilege, attorney work product privilege, or any other exemption from disclosure.
+
+**Created via Incoming Email Processor**
+
+//////////////////////////////////// 2nd Order//////////////////////////////////////////////////////////////////////////////////////////
+
+State Of Illinois EON, acknowledge receipt of order & acceptance of due date within 24 hours. No changes to be made to order without prior approval from an authorized CSC representative.
+Request # : 158737
+
+Email Date Time: 9/28/17 9:04 AM
+
+Priority: Low          Project:
+
+Analyst: LAMASTER, BETSY
+
+
+
+Status: Sent To Vendor
+
+
+Requestor: RYAN (BOTTOMS) , SHARIE
+
+Phone:
+
+Submitted: 09/25/17
+
+Requested Due: 10/02/17
+
+Confirmed Due:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agency Control: 8030
+
+Order Type: CELL VZW
+
+Cost Center: 4824000B05
+
+
+Request Description:
+
+VZW 2 NEW 708- BELLWOOD NUMBERS
+400 NW SHARE PLAN W/ UNLIMITED DATA/ TEXT; VOICEMAIL
+2 - IPHONE 6S 32G; OTTERBOX, CAR CHARGER
+
+SHIP TO
+SHARIE RYAN, DPH
+2175246816
+535 W JEFFERSON 4TH FLOOR
+SPRINGFIELD, IL 62701
+
+
+Location Description:
+
+
+
+________________________________
+
+Request #: 158737
+
+SR #: 158737-1
+
+
+Action: Add
+
+
+
+Inventory #:
+
+Previous Inventory #:
+
+User Name:
+
+Cost Center: 4824000B05
+
+Cost Center Description: DPH: OHCR - REGIONAL AIRCARDS
+
+Service: 4GVZW - VERIZON WIRELESS 4G SERVICE
+
+Vendor: VERIZON WIRELESS
+
+SR Description:
+
+Comments:
+
+
+
+
+
+
+
+
+Requested Due Date:
+
+Confirmed Due Date:
+
+
+Action
+
+Description
+
+RC Qty
+
+Rc Amt
+
+NRC Qty
+
+NRC Amt
+
+Vendor
+
+Install
+
+VISUAL VM FOR IPHONE - 75903
+
+1.0
+
+$0.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+NW 400 SHARE W/DATA 97461
+
+1.0
+
+$51.75
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+IPHONE OTTERBOX
+
+1.0
+
+$0.00
+
+1.0
+
+$41.25
+
+11111
+
+Install
+
+IPHONE VPC
+
+1.0
+
+$0.00
+
+1.0
+
+$24.75
+
+11111
+
+Install
+
+IPHONE 6S 32GB
+
+1.0
+
+$0.00
+
+1.0
+
+$1.10
+
+11111
+
+
+
+EQUIPMENT MODEL #: IPHONE 6S 32G
+
+
+
+
+Primary Location
+
+Secondary Location (or Current Location)
+
+FFFFFFFFFFFFFFFFF
+
+.
+
+FLOOR: FFF
+
+.
+
+SPRINGFIELD IL , 62702
+
+
+
+
+
+Contact Name
+
+Telephone
+
+Contact Name
+
+Telephone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+
+Request #: 158737
+
+SR #: 158737-2
+
+
+Action: Copy Sr
+
+
+
+Inventory #:
+
+Previous Inventory #:
+
+User Name:
+
+Cost Center: 4824000B05
+
+Cost Center Description: DPH: OHCR - REGIONAL AIRCARDS
+
+Service: 4GVZW - VERIZON WIRELESS 4G SERVICE
+
+Vendor: VERIZON WIRELESS
+
+SR Description:
+
+Comments:
+
+
+
+
+
+
+
+
+Requested Due Date:
+
+Confirmed Due Date:
+
+
+Action
+
+Description
+
+RC Qty
+
+Rc Amt
+
+NRC Qty
+
+NRC Amt
+
+Vendor
+
+Install
+
+VISUAL VM FOR IPHONE - 75903
+
+1.0
+
+$0.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+NW 400 SHARE W/DATA 97461
+
+1.0
+
+$51.75
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+IPHONE OTTERBOX
+
+1.0
+
+$0.00
+
+1.0
+
+$41.25
+
+11111
+
+Install
+
+IPHONE VPC
+
+1.0
+
+$0.00
+
+1.0
+
+$24.75
+
+11111
+
+Install
+
+IPHONE 6S 32GB
+
+1.0
+
+$0.00
+
+1.0
+
+$1.10
+
+11111
+
+
+
+EQUIPMENT MODEL #: IPHONE 6S 32G
+
+
+
+
+Primary Location
+
+Secondary Location (or Current Location)
+
+FFFFFFFFFFFFFFFFF
+
+.
+
+FLOOR: FFF
+
+.
+
+SPRINGFIELD IL , 62702
+
+
+
+
+
+Contact Name
+
+Telephone
+
+Contact Name
+
+Telephone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+
+
+State of Illinois
+
+//////////////////////////////////// 3rd Order//////////////////////////////////////////////////////////////////////////////////////////
+
+
+State Of Illinois EON, acknowledge receipt of order & acceptance of due date within 24 hours. No changes to be made to order without prior approval from an authorized CSC representative.
+Request # : 158239
+
+Email Date Time: 9/18/17 3:06 PM
+
+Priority: Low          Project:
+
+Analyst: TROESCH, MARY
+
+
+
+Status: Sent To Vendor
+
+
+Requestor: LEINBERGER , BART
+
+Phone: 2177851212
+
+Submitted: 09/07/17
+
+Requested Due: 09/21/17
+
+Confirmed Due:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agency Control: DOT18966
+
+Agency: DOT
+
+Order Type: CELL VZW
+
+Cost Center: 4940203B01
+
+
+Request Description:
+
+SHIP TO BART LEINBERGER DOT 2177851212
+2300 S DIRKSEN PARKWAY, SPRINGFIELD 62764
+
+
+Location Description:
+
+
+
+________________________________
+
+Request #: 158239
+
+SR #: 158239-1
+
+
+Action: Update
+
+
+
+Inventory #: 2178361509
+
+Previous Inventory #:
+
+User Name: ROXANNE    SANCHEZ
+
+Cost Center: 4940203B01
+
+Cost Center Description: DOT-OPERNS ADMIN, BUREAU
+
+Service: 4GVZW - VERIZON WIRELESS 4G SERVICE
+
+Vendor: VERIZON WIRELESS
+
+SR Description:
+
+Comments:
+
+
+
+
+
+
+
+
+Requested Due Date:
+
+Confirmed Due Date:
+
+
+Action
+
+Description
+
+RC Qty
+
+Rc Amt
+
+NRC Qty
+
+NRC Amt
+
+Vendor
+
+Active
+
+VISUAL VM FOR IPHONE - 75903
+
+1.0
+
+$0.00
+
+1.0
+
+$0.00
+
+11111
+
+Active
+
+NW 400 SHARE W/DATA 97461
+
+1.0
+
+$51.75
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+IPHONE HOLSTER
+
+1.0
+
+$0.00
+
+2.0
+
+$49.50
+
+11111
+
+Install
+
+IPHONE VPC
+
+1.0
+
+$0.00
+
+1.0
+
+$24.75
+
+11111
+
+Install
+
+IPHONE SE 32GB
+
+1.0
+
+$0.00
+
+1.0
+
+$10.00
+
+11111
+
+
+
+
+
+BILLING ACCOUNT #: 0380019105
+
+EQUIPMENT MODEL #: IPHONE SE 32GB
+
+
+
+
+Primary Location
+
+Secondary Location (or Current Location)
+
+FFFFFFFFFFFFFFFFF
+
+.
+
+FLOOR: FFF
+
+.
+
+SPRINGFIELD IL , 62702
+
+
+
+
+
+Contact Name
+
+Telephone
+
+Contact Name
+
+Telephone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+
+
+State of Illinois
+
+
+//////////////////////////////////// 4th Order//////////////////////////////////////////////////////////////////////////////////////////
+
+State Of Illinois EON, acknowledge receipt of order & acceptance of due date within 24 hours. No changes to be made to order without prior approval from an authorized CSC representative.
+Request # : 158202
+
+Email Date Time: 9/18/17 1:54 PM
+
+Priority: Low          Project:
+
+Analyst: TROESCH, MARY
+
+
+
+Status: Sent To Vendor
+
+
+Requestor: DEHEVE , JACK
+
+Phone: 2175577244
+
+Submitted: 09/07/17
+
+Requested Due: 09/21/17
+
+Confirmed Due:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agency Control: C18021
+
+Agency: EMA
+
+Order Type: CELL VZW
+
+Cost Center: 5883540N02
+
+
+Request Description:
+
+SHIP TO JACK DEHEVE EMA 2175577244
+2200 S DIRKSEN PARKWAY, FL 1, SPRINGFIELD 62703
+
+
+Location Description:
+
+
+
+________________________________
+
+Request #: 158202
+
+SR #: 158202-1
+
+
+Action: Update
+
+
+
+Inventory #: 6309473787
+
+Previous Inventory #:
+
+User Name: CHARLES    MATTHEWS
+
+Cost Center: 5883540N02
+
+Cost Center Description: RES-INSPECTOR/MZ
+
+Service: 4GVZW - VERIZON WIRELESS 4G SERVICE
+
+Vendor: VERIZON WIRELESS
+
+SR Description:
+
+Comments:
+
+
+IPHONE 6S
+
+
+
+
+
+Requested Due Date:
+
+Confirmed Due Date:
+
+
+Action
+
+Description
+
+RC Qty
+
+Rc Amt
+
+NRC Qty
+
+NRC Amt
+
+Vendor
+
+Active
+
+VISUAL VM FOR IPHONE - 75903
+
+1.0
+
+$0.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+4G HOTSPOT FEATURE 76445
+
+1.0
+
+$11.00
+
+1.0
+
+$0.00
+
+11111
+
+Active
+
+NW 400 SHARE W/DATA 97461
+
+1.0
+
+$51.75
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+IPHONE OTTERBOX
+
+1.0
+
+$0.00
+
+1.0
+
+$41.25
+
+11111
+
+Install
+
+IPHONE 6S 32GB
+
+1.0
+
+$0.00
+
+1.0
+
+$110.00
+
+11111
+
+
+
+
+
+BILLING ACCOUNT #: 0380019105
+
+EQUIPMENT MODEL #: IPHONE 6S 32GB
+
+
+
+
+Primary Location
+
+Secondary Location (or Current Location)
+
+FFFFFFFFFFFFFFFFF
+
+.
+
+FLOOR: FFF
+
+.
+
+SPRINGFIELD IL , 62702
+
+
+
+
+
+Contact Name
+
+Telephone
+
+Contact Name
+
+Telephone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+
+
+State of Illinois
+
+//////////////////////////////////// 5th Order//////////////////////////////////////////////////////////////////////////////////////////
+
+
+State Of Illinois EON, acknowledge receipt of order & acceptance of due date within 24 hours. No changes to be made to order without prior approval from an authorized CSC representative.
+Request # : 158607
+
+Email Date Time: 9/27/17 9:10 AM
+
+Priority: Low          Project:
+
+Analyst: TROESCH, MARY
+
+
+
+Status: Sent To Vendor
+
+
+Requestor: STOUTAMYER , SHAUN
+
+Phone: 2177826232
+
+Submitted: 09/20/17
+
+Requested Due: 10/02/17
+
+Confirmed Due:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agency Control: DNR201700274
+
+Agency: DNR
+
+Order Type: CELL VZW
+
+Cost Center: 4225001X12
+
+
+Request Description:
+
+NEW 309 MACKINAW #
+SHIP TO SHAUN STOUTAMYER DNR 2177826232
+ONE NATURAL RESOURCES WAY, SPRINGFIELD, 62702
+
+
+Location Description:
+
+
+
+________________________________
+
+Request #: 158607
+
+SR #: 158607-1
+
+
+Action: Add
+
+
+
+Inventory #:
+
+Previous Inventory #:
+
+User Name: THAD    COOK
+
+Cost Center: 4225001X12
+
+Cost Center Description: DNR: SPRING LAKE/MANITO IL
+
+Service: 3GVZW - VERIZON WIRELESS 3G SERVICE
+
+Vendor: VERIZON WIRELESS
+
+SR Description:
+
+Comments:
+
+
+
+
+
+
+
+
+Requested Due Date:
+
+Confirmed Due Date:
+
+
+Action
+
+Description
+
+RC Qty
+
+Rc Amt
+
+NRC Qty
+
+NRC Amt
+
+Vendor
+
+Install
+
+VOICE MAIL
+
+1.0
+
+$0.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+NATIONWIDE FLAT RATE 97445
+
+1.0
+
+$6.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+LEATHER CASE W/CLIP
+
+1.0
+
+$0.00
+
+1.0
+
+$20.60
+
+11111
+
+Install
+
+LG REVERE
+
+1.0
+
+$0.00
+
+1.0
+
+$1.10
+
+11111
+
+
+
+
+
+BILLING ACCOUNT #: 0680329357
+
+EQUIPMENT MODEL #: LG REVERE 3
+
+
+
+
+Primary Location
+
+Secondary Location (or Current Location)
+
+ZZZZZZZZZZZZZZZZZ
+
+.
+
+FLOOR: ZZZ
+
+.
+
+SPRINGFIELD IL , 62702
+
+
+
+
+
+Contact Name
+
+Telephone
+
+Contact Name
+
+Telephone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+
+
+State of Illinois
+
+

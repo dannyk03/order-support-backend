@@ -1,0 +1,34 @@
+{
+  "name": "original_fileobject",
+  "plural": "original_fileobjects",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "contents": {
+      "type": "string",
+      "required": true
+    },
+    "status": {
+      "type": "object"
+    },
+    "status_date_change": {
+      "type": "date"
+    },
+    "dictionary_version": {
+      "type": "string"
+    },
+    "dictionary_approval": {
+      "type": "boolean"
+    },
+    "file_object_idc": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

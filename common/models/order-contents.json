@@ -1,0 +1,47 @@
+{
+  "name": "order_contents",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "sr_number": {
+      "type": "string"
+    },
+    "inventory_number": {
+      "type": "string"
+    },
+    "previous_inventory_number": {
+      "type": "string"
+    },
+    "action": {
+      "type": "string"
+    },
+    "user_name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "sku_code": {
+      "type": "string"
+    },
+    "rc_quantity": {
+      "type": "number"
+    },
+    "rc_amount": {
+      "type": "number"
+    },
+    "nrc_quantity": {
+      "type": "string"
+    },
+    "nrc_amount": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

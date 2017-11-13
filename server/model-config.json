@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "User": {
+    "dataSource": "db"
+  },
+  "AccessToken": {
+    "dataSource": "db",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "db",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "db",
+    "public": false,
+    "options": {
+      "strictObjectIDCoercion": true
+    }
+  },
+  "Role": {
+    "dataSource": "db",
+    "public": false
+  },
+  "fileobject_status": {
+    "dataSource": "db",
+    "public": true
+  },
+  "original_fileobject": {
+    "dataSource": "db",
+    "public": true
+  },
+  "converted_fileobject": {
+    "dataSource": "db",
+    "public": true
+  },
+  "fileobject": {
+    "dataSource": "db",
+    "public": true
+  },
+  "customer": {
+    "dataSource": "db",
+    "public": true
+  },
+  "order_metadata": {
+    "dataSource": "db",
+    "public": true
+  },
+  "order_information": {
+    "dataSource": "db",
+    "public": true
+  },
+  "order_contents": {
+    "dataSource": "db",
+    "public": true
+  },
+  "provider": {
+    "dataSource": "db",
+    "public": true
+  },
+  "reports": {
+    "dataSource": "db",
+    "public": true
+  },
+  "product_type": {
+    "dataSource": "db",
+    "public": true
+  },
+  "vendor_inventory": {
+    "dataSource": "db",
+    "public": true
+  }
+}

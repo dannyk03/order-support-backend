@@ -1,0 +1,76 @@
+{
+  "name": "order_metadata",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "request_number": {
+      "type": "string"
+    },
+    "email_time": {
+      "type": "date"
+    },
+    "priority": {
+      "type": "string"
+    },
+    "project": {
+      "type": "string"
+    },
+    "analyst": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "requestor": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "submitted_date": {
+      "type": "date"
+    },
+    "requested_due_date": {
+      "type": "date"
+    },
+    "confirmed_due_date": {
+      "type": "date"
+    },
+    "agency_control": {
+      "type": "string"
+    },
+    "agency": {
+      "type": "string"
+    },
+    "order_type": {
+      "type": "string"
+    },
+    "cost_center": {
+      "type": "string"
+    },
+    "request_description": {
+      "type": "string"
+    },
+    "location_description": {
+      "type": "string"
+    },
+    "tracking_number": {
+      "type": "string"
+    },
+    "shipping_provider": {
+      "type": "string"
+    },
+    "orders": {
+      "type": [
+        "string"
+      ]
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

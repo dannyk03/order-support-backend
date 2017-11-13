@@ -1,0 +1,238 @@
+Request # : 158725
+
+Email Date Time: 9/29/17 2:16 PM
+
+Priority: Low          Project:
+
+Analyst: TROESCH, MARY
+
+
+
+Status: Sent To Vendor
+
+
+Requestor: RIECH , SCOTT
+
+Phone: 2178361781
+
+Submitted: 09/25/17
+
+Requested Due: 10/04/17
+
+Confirmed Due:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agency Control: ISP18R171
+
+Agency: ISP
+
+Order Type: CELL VZW
+
+Cost Center: 4939012B01
+
+
+Request Description:
+
+NEW 815 ROCKFORD #
+SHIP TO SCOTT RIECH ISP 2178361781
+801 SOUTH 7TH STREET, FAC BLDG, SPRINGFIELD 62702
+
+
+Location Description:
+
+
+
+________________________________
+
+Request #: 158725
+
+SR #: 158725-1
+
+
+Action: Copy Sr
+
+
+
+Inventory #:
+
+Previous Inventory #:
+
+User Name: SEAN    GROSVENOR
+
+Cost Center: 4939012B01
+
+Cost Center Description: ISP: SUPPORT TECH/FIELD SVC
+
+Service: 4GVZW - VERIZON WIRELESS 4G SERVICE
+
+Vendor: VERIZON WIRELESS
+
+SR Description:
+
+Comments:
+
+
+
+
+
+
+
+
+Requested Due Date:
+
+Confirmed Due Date:
+
+
+Action
+
+Description
+
+RC Qty
+
+Rc Amt
+
+NRC Qty
+
+NRC Amt
+
+Vendor
+
+Install
+
+VISUAL VM FOR IPHONE - 75903
+
+1.0
+
+$0.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+4G HOTSPOT FEATURE 76445
+
+1.0
+
+$11.00
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+NW 400 SHARE W/DATA 97461
+
+1.0
+
+$51.75
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+IPHONE OTTERBOX
+
+1.0
+
+$0.00
+
+1.0
+
+$41.25
+
+11111
+
+Install
+
+IPHONE 6S 32GB
+
+1.0
+
+$0.00
+
+1.0
+
+$1.10
+
+11111
+
+
+
+
+
+BILLING ACCOUNT #: 0380019105
+
+EQUIPMENT MODEL #: IPHONE 6S 32GB
+
+
+
+
+Primary Location
+
+Secondary Location (or Current Location)
+
+FFFFFFFFFFFFFFFFF
+
+.
+
+FLOOR: FFF
+
+.
+
+SPRINGFIELD IL , 62702
+
+
+
+
+
+Contact Name
+
+Telephone
+
+Contact Name
+
+Telephone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+
+
+State of Illinois

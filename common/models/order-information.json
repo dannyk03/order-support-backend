@@ -1,0 +1,73 @@
+{
+  "name": "order_information",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "request_number": {
+      "type": "string"
+    },
+    "action": {
+      "type": "string"
+    },
+    "inventory_number": {
+      "type": "string"
+    },
+    "previous_inventory_number": {
+      "type": "string"
+    },
+    "user_name": {
+      "type": "string"
+    },
+    "cost_center": {
+      "type": "string"
+    },
+    "cost_center_description": {
+      "type": "string"
+    },
+    "vendor": {
+      "type": "string"
+    },
+    "sr_description": {
+      "type": "string"
+    },
+    "comments": {
+      "type": "string"
+    },
+    "requested_due_date": {
+      "type": "date"
+    },
+    "confirmed_due_date": {
+      "type": "date"
+    },
+    "line_items": {
+      "type": [
+        "string"
+      ]
+    },
+    "billing_account_number": {
+      "type": "string"
+    },
+    "equipment_model_number": {
+      "type": "string"
+    },
+    "primary_location": {
+      "type": "string"
+    },
+    "secondary_location": {
+      "type": "string"
+    },
+    "sr_number": {
+      "type": "string"
+    },
+    "service": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
