@@ -21,6 +21,9 @@
     },
     "dictionary_approval": {
       "type": "boolean"
+    },
+    "idkey": {
+      "type": "string"
     }
   },
   "validations": [],

@@ -65,6 +65,11 @@ const dictionaryData = {
 const parser = new reader.OrderParser(dictionaryData);
 
 module.exports = function(Originalfileobject) {
+	Originalfileobject.beforeRemote('create', function(context, original_fileobject,next){
+		context.args.data.idkey = new Date().getTime()
+		next()
+	})
+
 	Originalfileobject.afterRemote('create', function(context, original_fileobject,next){
 		parser.parse(original_fileobject.contents)
         .then(result => {
@@ -73,11 +78,16 @@ module.exports = function(Originalfileobject) {
             status: "",
             status_date_change: Date.now(),
             dictionary_version: "",
-            dictionary_approval: ""
-          })
-          console.log('result:', result);
-          context.result = result
-          next()
+            dictionary_approval: "",
+            idkey: original_fileobject.idkey
+          }, (err, converted_object) => {
+              context.result = {
+                result: result,
+                original_fileobject_id:  original_fileobject.id,
+                converted_fileobject_id: converted_object.id
+              }
+              next()
+          })          
         })
         .catch(e => {
           console.log('error:', e);
