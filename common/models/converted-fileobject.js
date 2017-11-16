@@ -1,7 +1,7 @@
 'use strict';
 
 var converter = require('json-2-csv');
-
+var jsonexport = require('jsonexport');
 
 module.exports = function(Convertedfileobject) {
 	Convertedfileobject.remoteMethod(
@@ -23,10 +23,11 @@ module.exports = function(Convertedfileobject) {
 			if(err){
 				cb(err)
 			}else{
-				converter.json2csv(JSON.parse(converted_object.contents), function(err, csv){
+				jsonexport(JSON.parse(converted_object.contents),function(err, csv){
 					if(err) {
 						cb(err)
 					}else{
+						console.log(csv)
 						var dateTime = new Date()
 						res.set('Cache-Control', 'max-age=0, no-cache, must-revalidate, proxy-revalidate');
 						res.set('Last-Modified', dateTime +'GMT');
@@ -43,3 +44,23 @@ module.exports = function(Convertedfileobject) {
 		})
 	}
 };
+
+
+
+function convertToCSV(objArray) {
+    var array = typeof objArray != 'object' ? JSON.parse(objArray) : objArray;
+    var str = '';
+
+    for (var i = 0; i < array.length; i++) {
+        var line = '';
+        for (var index in array[i]) {
+            if (line != '') line += ','
+
+            line += array[i][index];
+        }
+
+        str += line + '\r\n';
+    }
+
+    return str;
+}
