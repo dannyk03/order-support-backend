@@ -17,3 +17,16 @@
 coverage
 node_modules
 npm-debug.log
+Backups
+Cache
+CachedData
+GPUCache
+Local Storage
+User
+Cookies
+Cookies-journal
+machineid
+Preferences
+storage.json
+data.csv
+data.json

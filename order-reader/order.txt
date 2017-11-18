@@ -1,23 +1,24 @@
-Request # : 158725
+State Of Illinois EON, acknowledge receipt of order & acceptance of due date within 24 hours. No changes to be made to order without prior approval from an authorized CSC representative.
+Request # : 158737
 
-Email Date Time: 9/29/17 2:16 PM
+Email Date Time: 9/28/17 9:04 AM
 
 Priority: Low          Project:
 
-Analyst: TROESCH, MARY
+Analyst: LAMASTER, BETSY
 
 
 
 Status: Sent To Vendor
 
 
-Requestor: RIECH , SCOTT
+Requestor: RYAN (BOTTOMS) , SHARIE
 
-Phone: 2178361781
+Phone:
 
 Submitted: 09/25/17
 
-Requested Due: 10/04/17
+Requested Due: 10/02/17
 
 Confirmed Due:
 
@@ -33,20 +34,24 @@ Confirmed Due:
 
 
 
-Agency Control: ISP18R171
-
-Agency: ISP
+Agency Control: 8030
 
 Order Type: CELL VZW
 
-Cost Center: 4939012B01
+Cost Center: 4824000B05
 
 
 Request Description:
 
-NEW 815 ROCKFORD #
-SHIP TO SCOTT RIECH ISP 2178361781
-801 SOUTH 7TH STREET, FAC BLDG, SPRINGFIELD 62702
+VZW 2 NEW 708- BELLWOOD NUMBERS
+400 NW SHARE PLAN W/ UNLIMITED DATA/ TEXT; VOICEMAIL
+2 - IPHONE 6S 32G; OTTERBOX, CAR CHARGER
+
+SHIP TO
+SHARIE RYAN, DPH
+2175246816
+535 W JEFFERSON 4TH FLOOR
+SPRINGFIELD, IL 62701
 
 
 Location Description:
@@ -55,12 +60,12 @@ Location Description:
 
 ________________________________
 
-Request #: 158725
+Request #: 158737
 
-SR #: 158725-1
+SR #: 158737-1
 
 
-Action: Copy Sr
+Action: Add
 
 
 
@@ -68,11 +73,11 @@ Inventory #:
 
 Previous Inventory #:
 
-User Name: SEAN    GROSVENOR
+User Name:
 
-Cost Center: 4939012B01
+Cost Center: 4824000B05
 
-Cost Center Description: ISP: SUPPORT TECH/FIELD SVC
+Cost Center Description: DPH: OHCR - REGIONAL AIRCARDS
 
 Service: 4GVZW - VERIZON WIRELESS 4G SERVICE
 
@@ -124,11 +129,172 @@ $0.00
 
 Install
 
-4G HOTSPOT FEATURE 76445
+NW 400 SHARE W/DATA 97461
 
 1.0
 
-$11.00
+$51.75
+
+1.0
+
+$0.00
+
+11111
+
+Install
+
+IPHONE OTTERBOX
+
+1.0
+
+$0.00
+
+1.0
+
+$41.25
+
+11111
+
+Install
+
+IPHONE VPC
+
+1.0
+
+$0.00
+
+1.0
+
+$24.75
+
+11111
+
+Install
+
+IPHONE 6S 32GB
+
+1.0
+
+$0.00
+
+1.0
+
+$1.10
+
+11111
+
+
+
+EQUIPMENT MODEL #: IPHONE 6S 32G
+
+
+
+
+Primary Location
+
+Secondary Location (or Current Location)
+
+FFFFFFFFFFFFFFFFF
+
+.
+
+FLOOR: FFF
+
+.
+
+SPRINGFIELD IL , 62702
+
+
+
+
+
+Contact Name
+
+Telephone
+
+Contact Name
+
+Telephone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+
+Request #: 158737
+
+SR #: 158737-2
+
+
+Action: Copy Sr
+
+
+
+Inventory #:
+
+Previous Inventory #:
+
+User Name:
+
+Cost Center: 4824000B05
+
+Cost Center Description: DPH: OHCR - REGIONAL AIRCARDS
+
+Service: 4GVZW - VERIZON WIRELESS 4G SERVICE
+
+Vendor: VERIZON WIRELESS
+
+SR Description:
+
+Comments:
+
+
+
+
+
+
+
+
+Requested Due Date:
+
+Confirmed Due Date:
+
+
+Action
+
+Description
+
+RC Qty
+
+Rc Amt
+
+NRC Qty
+
+NRC Amt
+
+Vendor
+
+Install
+
+VISUAL VM FOR IPHONE - 75903
+
+1.0
+
+$0.00
 
 1.0
 
@@ -166,6 +332,20 @@ $41.25
 
 Install
 
+IPHONE VPC
+
+1.0
+
+$0.00
+
+1.0
+
+$24.75
+
+11111
+
+Install
+
 IPHONE 6S 32GB
 
 1.0
@@ -180,11 +360,7 @@ $1.10
 
 
 
-
-
-BILLING ACCOUNT #: 0380019105
-
-EQUIPMENT MODEL #: IPHONE 6S 32GB
+EQUIPMENT MODEL #: IPHONE 6S 32G
 
 
 

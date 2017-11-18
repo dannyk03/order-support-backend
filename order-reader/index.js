@@ -4,6 +4,7 @@ const process = require('process');
 const readline = require('readline');
 const {Readable} = require('stream');
 const {promisify} = require('util');
+const jsonexport = require('jsonexport')
 
 const _ = require('lodash');
 
@@ -534,7 +535,12 @@ if (require.main == module) {
       let parser = new OrderParser(dictionaryData);
       return parser.parse(fs.createReadStream(orderPath));
     })
-    .then(result => console.log(JSON.stringify(result)))
+    .then(result => {
+      // jsonexport(result, function(err, csv){
+      //   console.log(csv)
+      // })
+      console.log(JSON.stringify(result))
+    })
     .catch(e => console.log(e));
 }
 
