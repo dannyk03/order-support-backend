@@ -1,6 +1,5 @@
 'use strict';
 
-var converter = require('json-2-csv');
 var jsonexport = require('jsonexport');
 
 module.exports = function(Convertedfileobject) {
