@@ -1,0 +1,17 @@
+{
+    "google-auth": {
+        "provider": "google",
+        "module": "passport-google-oauth",
+        "strategy": "OAuth2Strategy",
+        "clientID": "188286391065-76f331k35snfat03560k4m7otml667nf.apps.googleusercontent.com",
+        "clientSecret": "iBdNlU2vEODg11wkXatL_S1h",
+        "callbackURL": "https://order-support-app.herokuapp.com/auth/google/callback",
+        "authPath": "/auth/google",
+        "callbackPath": "/auth/google/callback",
+        "successRedirect": "/auth/account",
+        "scope": [
+            "email",
+            "profile"
+        ]
+    }
+}
