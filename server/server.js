@@ -66,7 +66,7 @@ app.get('/auth/account', ensureLoggedIn('/login'), function (req, res, next) {
   }
   jwt.encode(secretKey, payload, function (err, token) {
     // res.redirect('http://localhost:4000/auth/login_success/' + token)
-    res.redirect('https://order-support-react.herokuapp.com//auth/login_success/' + token)
+    res.redirect('https://order-support-react.herokuapp.com/auth/login_success/' + token)
   })
 });
 
