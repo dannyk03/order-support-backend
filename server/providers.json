@@ -12,6 +12,7 @@
         "scope": [
             "email",
             "profile"
-        ]
+        ],
+        "domain":"Theitarchitect.support"
     }
 }

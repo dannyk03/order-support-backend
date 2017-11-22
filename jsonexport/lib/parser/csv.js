@@ -94,7 +94,7 @@ class Parser {
         }
         if (!placed) {
           let newRow = Array(self._headers.length).join(".").split(".");
-          resultRows[0].forEach(function(value, i){
+          resultRows[resultRows.length-1].forEach(function(value, i){
             if (i < elementHeaderIndex) {
               newRow[i] = value;
             }

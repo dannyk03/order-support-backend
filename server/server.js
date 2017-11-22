@@ -16,8 +16,8 @@ var secretKey = "wj6aQMAclS"
 
 var config = {};
 try {
-  // config = require('./providers.dev.json');
-  config = require('./providers.json');
+  config = require('./providers.dev.json');
+  // config = require('./providers.json');
 } catch (err) {
   console.trace(err);
   process.exit(1); // fatal
@@ -65,8 +65,8 @@ app.get('/auth/account', ensureLoggedIn('/login'), function (req, res, next) {
     email: req.user.profiles[0].profile.emails[0].value,
   }
   jwt.encode(secretKey, payload, function (err, token) {
-    // res.redirect('http://localhost:4000/auth/login_success/' + token)
-    res.redirect('https://order-support-react.herokuapp.com/auth/login_success/' + token)
+    res.redirect('http://localhost:4000/auth/login_success/' + token)
+    // res.redirect('https://order-support-react.herokuapp.com/auth/login_success/' + token)
   })
 });
 
