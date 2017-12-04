@@ -16,8 +16,8 @@ var secretKey = "wj6aQMAclS"
 
 var config = {};
 try {
-  config = require('./providers.dev.json');
-  // config = require('./providers.json');
+  // config = require('./providers.dev.json');
+  config = require('./providers.json');
 } catch (err) {
   console.trace(err);
   process.exit(1); // fatal
