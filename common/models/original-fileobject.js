@@ -82,7 +82,7 @@ module.exports = function(Originalfileobject) {
             idkey: original_fileobject.idkey,
           }, (err, converted_object) => {
             context.result = {
-              result: result,
+              result: context.result,
               original_fileobject_id: original_fileobject.id,
               converted_fileobject_id: converted_object.id,
             };
